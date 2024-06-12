@@ -9,3 +9,10 @@ In your Visual Studio Code terminal, run the following commands:
 ```bash
 pip install streamlit
 pip install scikit-learn
+```
+
+## Run the Program
+Execute the following command in the Visual Studio Code terminal:
+```bash
+python -m streamlit run website.py
+```
