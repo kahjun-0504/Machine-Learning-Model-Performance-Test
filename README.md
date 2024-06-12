@@ -18,5 +18,7 @@ python -m streamlit run website.py
 ```
 ### Contributors
 Muhamad Hazami bin Jamil (Leader)
+<br>
 Lok Yong Xue
+<br>
 Tan Kah Jun
